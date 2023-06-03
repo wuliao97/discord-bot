@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.cache
+/src/resource/
+/src/config/*
+!/src/config/config.json
